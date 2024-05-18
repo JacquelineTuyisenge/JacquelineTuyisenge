@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm Jacqueline Tuyisenge, a passionate Fullstack Software Engineer/Developer. Here's a little about me:
+Welcome to my GitHub profile! I'm Jacqueline Tuyisenge, an aspiring Fullstack Software Engineer/Developer. Here's a little about me:
 
-- 🌱 I’m currently learning **React** and constantly expanding my knowledge in fullstack development.
+- 🌱 I’m currently learning **React** and constantly expanding my knowledge in full-stack development.
 - 👯 I’m looking to collaborate on **open-source projects** and innovative **start-up ideas**. Let's build something amazing together!
 - 💬 Ask me about **JavaScript, Express, and Node.js**. I'm always happy to share my knowledge and learn from others.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)**
