@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Jacqueline Tuyisenge, an aspiring Fullstack So
 - 👯 I’m looking to collaborate on **open-source projects** and innovative **start-up ideas**. Let's build something amazing together!
 - 💬 Ask me about **JavaScript, Express, and Node.js**. I'm always happy to share my knowledge and learn from others.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)**
-- 😄 Pronouns: **She/Her**
+- 😄 Pronouns: **She/Her** 😊
 - ⚡ Fun fact: I love exploring nature trails. Nature inspires my creativity and problem-solving skills.
 
 ### Technologies & Tools
