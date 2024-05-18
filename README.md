@@ -21,6 +21,12 @@ Welcome to my GitHub profile! I'm Jacqueline Tuyisenge, an aspiring Fullstack So
 ### GitHub Stats
 
 ![Jacqueline's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacquelineTuyisenge&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquelineTuyisenge&layout=compact&theme=radical)
+![Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=JacquelineTuyisenge&theme=radical)
+
+### Contribution Graph
+
+![Jacqueline's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JacquelineTuyisenge&theme=radical)
 
 ### Get in Touch
 
