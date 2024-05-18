@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Jacqueline Tuyisenge, an aspiring Fullstack Software Engineer/Developer. Here's a little about me:
 
-- 🌱 I’m currently learning **React** and constantly expanding my knowledge in full-stack development.
+- 🌱 I’m currently learning **React** and **Typescript** and constantly expanding my knowledge in full-stack development.
 - 👯 I’m looking to collaborate on **open-source projects** and innovative **start-up ideas**. Let's build something amazing together!
 - 💬 Ask me about **JavaScript, Express, and Node.js**. I'm always happy to share my knowledge and learn from others.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)**
@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm Jacqueline Tuyisenge, an aspiring Fullstack So
 ### Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -26,7 +27,8 @@ Welcome to my GitHub profile! I'm Jacqueline Tuyisenge, an aspiring Fullstack So
 
 ### Contribution Graph
 
-![Jacqueline's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JacquelineTuyisenge&theme=radical)
+![Jacqueline's Contribution Graph](https://github.com/users/JacquelineTuyisenge/contributions)
+
 
 ### Get in Touch
 
