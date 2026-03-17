@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I'm Jacqueline Tuyisenge, an aspiring Fullstack Software Developer. Here's a little about me:
 
 - 🌱 I am striving to never stop learning and improving
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)**
+- 🌐 I am interestes in Tech for social impact, digital inclusion, and community empowerment
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)**
 - ⚡ Fun fact: I love exploring nature trails. Nature inspires my creativity and problem-solving skills.
 
 ### Technologies & Tools
