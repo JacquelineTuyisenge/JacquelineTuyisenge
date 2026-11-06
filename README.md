@@ -1,18 +1,15 @@
 
-hi, I am Jacqueline, 
+# 👋 Hi, I am Jacqueline!
 
-[My LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)
+🔗 [LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)
 
-I'm a Software Engineering graduate from the African Leadership University.
+🎓 A Software Engineering graduate from the African Leadership University.
 
-I enjoy building user-focused digital solutions and exploring how technology can advance social impact, digital inclusion, and community empowerment.
+💡 I enjoy building user-focused digital solutions and exploring how technology can advance social impact, digital inclusion, and community empowerment.
 
-I'm particularly interested in full-stack development, software engineering, and emerging technologies.
+👩🏽‍💻 I am particularly interested in full-stack development, software engineering, and emerging technologies.
 
-
-
-
-### GitHub Statistics
+### 📊 GitHub Statistics
 
 <div align="center">
 
@@ -24,9 +21,8 @@ I'm particularly interested in full-stack development, software engineering, and
 
 </div>
 
-
 <div align="center">
 
-*Always learning. Always building. Always growing.*
+*🌱 Always learning.*
 
 </div>
