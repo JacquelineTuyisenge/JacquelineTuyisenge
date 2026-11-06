@@ -1,11 +1,6 @@
-
-<div align="center">
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jacqueline+%F0%9F%91%8B;Software+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=28&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jacqueline+%F0%9F%91%8B;Software+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </a>
-
-</div>
 
 🔗 [LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)
 
