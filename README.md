@@ -1,26 +1,59 @@
-### Hi there 👋
 
-Welcome to my GitHub profile! I'm Jacqueline Tuyisenge, a software engineer. Here's a little about me:
+<div align="center">
 
-- 🌱 I am striving to never stop learning and improving
-- 🌐 I am interestes in Tech for social impact, digital inclusion, and community empowerment
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)**
-- ⚡ Fun fact: I love exploring nature trails. Nature inspires my creativity and problem-solving skills.
+# Jacqueline Tuyisenge
 
-### Technologies & Tools
+### Software Engineer | Full-Stack Developer
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+Building practical technology for real-world impact.
 
-### GitHub Stats
+[LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/) · [GitHub](https://github.com/JacquelineTuyisenge)
 
-![Jacqueline's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacquelineTuyisenge&show_icons=true&theme=radical)
+</div>
 
-![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquelineTuyisenge&layout=compact&theme=radical)
+---
 
-Thanks for visiting my profile! Let's connect and create something great together! 😊
+### About
+
+I'm a Software Engineering graduate from the African Leadership University.
+
+I enjoy building user-focused digital solutions and exploring how technology can advance social impact, digital inclusion, and community empowerment.
+
+I'm particularly interested in full-stack development, software engineering, and emerging technologies.
+
+### Technologies
+
+**Languages:** JavaScript · TypeScript · Python
+
+**Frontend:** React · HTML · CSS · Tailwind CSS
+
+**Backend:** Node.js · Express.js · REST APIs
+
+**Databases:** PostgreSQL · MongoDB · Firebase
+
+**Tools:** Git · GitHub · Docker · GitHub Actions · Postman · Jest
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JacquelineTuyisenge&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="160" alt="GitHub statistics" />
+
+<img src="https://streak-stats.demolab.com?user=JacquelineTuyisenge&hide_border=true&theme=transparent" height="160" alt="GitHub contribution streak" />
+
+</div>
+
+### Currently Interested In
+
+- Building reliable and scalable applications.
+- Payment integrations and backend engineering.
+- Data, AI, and emerging technologies.
+- Technology for social impact.
+
+---
+
+<div align="center">
+
+*Always learning. Always building. Always growing.*
+
+</div>
