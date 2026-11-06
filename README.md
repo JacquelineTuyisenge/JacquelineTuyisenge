@@ -1,19 +1,7 @@
 
-<div align="center">
+hi, I am Jacqueline, 
 
-# Jacqueline Tuyisenge
-
-### Software Engineer | Full-Stack Developer
-
-Building practical technology for real-world impact.
-
-[LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)
-
-</div>
-
----
-
-### About
+[My LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)
 
 I'm a Software Engineering graduate from the African Leadership University.
 
@@ -65,18 +53,19 @@ I'm particularly interested in full-stack development, software engineering, and
 
 <img src="https://github-readme-stats.vercel.app/api?username=JacquelineTuyisenge&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="160" alt="GitHub statistics" />
 
-<img src="https://streak-stats.demolab.com?user=JacquelineTuyisenge&hide_border=true&theme=transparent" height="160" alt="GitHub contribution streak" />
-
 </div>
 
-### Currently Interested In
+### GitHub Statistics
 
-- Building reliable and scalable applications.
-- Payment integrations and backend engineering.
-- Data, AI, and emerging technologies.
-- Technology for social impact.
+<div align="center">
 
----
+<img src="https://github-stats-extended.vercel.app/api?username=JacquelineTuyisenge&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub Statistics" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JacquelineTuyisenge&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most Used Languages" />
+
+<img src="https://streak-stats.demolab.com?user=JacquelineTuyisenge&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 <div align="center">
 
