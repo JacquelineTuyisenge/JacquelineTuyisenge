@@ -9,23 +9,21 @@ I enjoy building user-focused digital solutions and exploring how technology can
 
 I'm particularly interested in full-stack development, software engineering, and emerging technologies.
 
-### GitHub Activity
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JacquelineTuyisenge&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="160" alt="GitHub statistics" />
-
-</div>
 
 ### GitHub Statistics
 
 <div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=JacquelineTuyisenge&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub Statistics" />
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JacquelineTuyisenge&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most Used Languages" />
 
 <img src="https://streak-stats.demolab.com?user=JacquelineTuyisenge&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 
 <div align="center">
 
