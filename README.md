@@ -7,7 +7,7 @@
 
 Building practical technology for real-world impact.
 
-[LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/) · [GitHub](https://github.com/JacquelineTuyisenge)
+[LinkedIn](https://www.linkedin.com/in/tuyisenge-jacqueline-69b393240/)
 
 </div>
 
