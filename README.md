@@ -21,17 +21,43 @@ I enjoy building user-focused digital solutions and exploring how technology can
 
 I'm particularly interested in full-stack development, software engineering, and emerging technologies.
 
-### Technologies
 
-**Languages:** JavaScript · TypeScript · Python
+### Technologies & Tools
 
-**Frontend:** React · HTML · CSS · Tailwind CSS
+<div align="center">
 
-**Backend:** Node.js · Express.js · REST APIs
+**Languages**
 
-**Databases:** PostgreSQL · MongoDB · Firebase
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python)
 
-**Tools:** Git · GitHub · Docker · GitHub Actions · Postman · Jest
+**Frontend**
+
+![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat-square&logo=tailwindcss)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-333333?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase)
+
+**Tools & Testing**
+
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=flat-square&logo=githubactions)
+![Postman](https://img.shields.io/badge/Postman-333333?style=flat-square&logo=postman)
+![Jest](https://img.shields.io/badge/Jest-333333?style=flat-square&logo=jest)
+
+</div>
+
 
 ### GitHub Activity
 
