@@ -11,8 +11,6 @@
 
 <sub>👩🏽‍💻 Particularly interested in full-stack development, software engineering, and emerging technologies.</sub>
 
-### 📊 GitHub Statistics
-
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=JacquelineTuyisenge&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="140" alt="GitHub Statistics" />
